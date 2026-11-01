@@ -42,13 +42,6 @@
     "character": "DIO"
   },
   {
-    "japanese": "フォッフォッフォッ",
-    "romaji": "Fo fo fo fo",
-    "english": "Fosh fosh fosh fosh. (alt wording 28)",
-    "anime": "One Piece",
-    "character": "Kozuki Sukiyaki"
-  },
-  {
     "japanese": "オラに元気を分けてくれ!",
     "romaji": "Ora ni genki o wakete kure!",
     "english": "Lend me your energy!",
@@ -96,13 +89,6 @@
     "english": "As long as I'm alive, there are infinite chances!",
     "anime": "One Piece",
     "character": "Monkey D. Luffy"
-  },
-  {
-    "japanese": "フォッフォッフォッ",
-    "romaji": "Fo fo fo fo",
-    "english": "Fosh fosh fosh fosh. (alt wording 28) (alt wording 80)",
-    "anime": "One Piece",
-    "character": "Kozuki Sukiyaki"
   },
   {
     "japanese": "ロードローラーだッ！",
@@ -280,13 +266,6 @@
     "character": "Setsuna F. Seiei"
   },
   {
-    "japanese": "フォッフォッフォッ",
-    "romaji": "Fo fo fo fo",
-    "english": "Fosh fosh fosh fosh. (alt wording 28) (alt wording 80)",
-    "anime": "One Piece",
-    "character": "Kozuki Sukiyaki"
-  },
-  {
     "japanese": "世界は残酷だ…それでも美しい",
     "romaji": "Sekai wa zankoku da... soredemo utsukushii",
     "english": "This world is cruel... yet so beautiful. (alt wording 26) (alt wording 78)",
@@ -362,5 +341,12 @@
   "english": "Next, it's your turn.",
   "anime": "My Hero Academia",
   "character": "All Might"
-}
+},
+ {
+  "japanese": "フォッフォッフォッ",
+  "romaji": "Fo fo fo fo",
+  "english": "Fosh fosh fosh fosh. (alt wording 28) (alt wording 80)",
+  "anime": "One Piece",
+  "character": "Kozuki Sukiyaki"
+} 
 ]
